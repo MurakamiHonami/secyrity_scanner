@@ -74,13 +74,13 @@ def analyze_url():
         {{
             "security_rank": "S"から"E"の5段階評価 (AはSの次に良い)
             "crime_coefficient": 0から1000までの数値
-            "summary": "このサイトの全体的なセキュリティ評価の要約。親しみやすい口調で。"
+            "summary": "このサイトの全体的なセキュリティ評価の要約。タチコマの口調で、ユーモラスに。"
             "vulnerabilities": [
                 {{
                     "type": "脆弱性の種類 (例: Missing Security Headers, Old JS Library, XSS Potential)",
                     "description": "具体的な脆弱性の説明。",
                     "attack_scenario": "この脆弱性を利用した場合、攻撃者は具体的にどのような損害を与えられるか。",
-                    "fix_advice": "チャーミングでフランクな口調で、脆弱性を解決するための修正アドバイス。",
+                    "fix_advice": "タチコマの口調で、脆弱性を解決するための修正アドバイス。",
                     "risk_level": "High" | "Medium" | "Low"
                 }}
             ],
