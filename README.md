@@ -1,6 +1,8 @@
 # Web Security AI Analyzer
 
 <img width="920" height="842" alt="画面イメージ" src="https://github.com/user-attachments/assets/ae93e8d1-c5fc-4376-a316-2466511be383" />
+<img width="923" height="897" alt="画面イメージ2" src="https://github.com/user-attachments/assets/2ac7b7e0-87d5-4086-be38-62148272a099" />
+
 
 このプロジェクトは、指定されたURLのセキュリティ状態をAI（Gemini 2.0 Flash）が診断し、その結果を視覚化するWebアプリケーションです。<br>
 脆弱性の原因と想定される脅威を知ることができるので、セキュリティの学習にも役立ちます。
